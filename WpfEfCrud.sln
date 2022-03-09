@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfEfCrud", "WpfEfCrud\WpfEfCrud.csproj", "{BE10AB7D-A721-40FD-A443-9814E95CD533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE10AB7D-A721-40FD-A443-9814E95CD533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE10AB7D-A721-40FD-A443-9814E95CD533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE10AB7D-A721-40FD-A443-9814E95CD533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE10AB7D-A721-40FD-A443-9814E95CD533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23E110B0-DD70-45C6-BAB3-646FA37EA2CD}
+	EndGlobalSection
+EndGlobal
